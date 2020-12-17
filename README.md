@@ -25,7 +25,8 @@ When audio signal is played our neural network model identifies the number and d
 on the screen. Our model works with 98% percent accuracy. The Execution time is about
 200ms which makes the model light weight and also fast enough for the real time
 deployment.
-Thus it is analyzed that MFCC is very powerful for the word detection as it produces unique
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Thus it is analyzed that MFCC is very powerful for the word detection as it produces unique
 images for unique sounds irrespective of the pitch. Converting Speech to MFCC image has
 raised accuracy by 20% which is critical for the deployment. Use of CNN has prevented the
 model from getting over fitted and as drastically reduced number of computations unlike in
