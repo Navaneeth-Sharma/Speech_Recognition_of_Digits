@@ -3,9 +3,9 @@
 This project of recognizing digit and converting it to text uses Signal processing techniques such as MFCC and other Advanced Signal Processing techniques for the preprocessing of the data. Then the Preprocessed data is used by the Neural Network algorithms to learn the pattern or structure of the sound.This Project can broadly divide into 4 main steps. Those
 steps are –
 1. Collecting the Voice Data of Digits
-2. Preprocessing the Data using ASP techniques
+2. Preprocessing the Data using Advanced Signal Processing techniques
 3. Training by preprocessed data and creating a model
-4. Testing the Model
+4. Validating and Testing the Model
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;The data for this project is collected from kaggle.com, which is a popular websites for
 Projects related to the Machine Learning and Data Science. The dataset has about 3000
