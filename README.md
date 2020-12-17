@@ -44,4 +44,5 @@ parameters have been observed and noted down.
 <br>
 Model is trained with 2700 samples with an accuracy of 98.6% and 0.98 F1 score
 and validated with 300 samples with an accuracy of 92% and 0.90 F1 score
+![alt text](https://github.com/Navaneeth-Sharma/Speech_Recognition_of_Digits/blob/main/f1score.png)
 
