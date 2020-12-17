@@ -9,7 +9,7 @@ steps are –
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;The data for this project is collected from kaggle.com, which is a popular websites for
 Projects related to the Machine Learning and Data Science. The dataset has about 3000
-samples i.e about 50 dataset for each digit. The 2nd step i.e preprocessing data is done
+samples i.e about 50 dataset for each digit.The Clean version of Data is <a href='https://drive.google.com/file/d/1fNwxwDvunG9VI8cbM6Dkjfl0fiOUM5nr/view?usp=sharing'>here</a>. The 2nd step i.e preprocessing data is done
 through ASP techniques such as Mel Frequency Cepstral Coefficients (MFCCs). These
 techniques are generally used in signal processing for studding the feature of the signal. Our
 Approach is to convert the Speech signal to MFCC images and then to feed that to train the
