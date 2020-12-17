@@ -42,6 +42,6 @@ image training data. Vast libraries of python like keras, librosa etc used has s
 design of the model. Hyper tuning parameters like batch size, learning rate and other
 parameters have been observed and noted down.
 <br>
-Model is trained with 2700 samples with an accuracy of 98.6%
-and validated with 300 samples with an accuracy of 92%
+Model is trained with 2700 samples with an accuracy of 98.6% and 0.98 F1 score
+and validated with 300 samples with an accuracy of 92% and 0.90 F1 score
 
