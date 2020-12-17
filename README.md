@@ -1,10 +1,12 @@
-# Speech_Recognition_of_Digits
+# Speech Recognition of Digits
+## Intro and Methodology
 This project of recognizing digit and converting it to text uses Signal processing techniques such as MFCC and other Advanced Signal Processing techniques for the preprocessing of the data. Then the Preprocessed data is used by the Neural Network algorithms to learn the pattern or structure of the sound.This Project can broadly divide into 4 main steps. Those
 steps are –
 1. Collecting the Voice Data of Digits
 2. Preprocessing the Data using ASP techniques
 3. Training by preprocessed data and creating a model
 4. Testing the Model
+<br>
 The data for this project is collected from kaggle.com, which is a popular websites for
 Projects related to the Machine Learning and Data Science. The dataset has about 3000
 samples i.e about 50 dataset for each digit. The 2nd step i.e preprocessing data is done
