@@ -1,5 +1,5 @@
 # Speech Recognition of Digits
-## Intro and Methodology
+## Aprroach
 This project of recognizing digit and converting it to text uses Signal processing techniques such as MFCC and other Advanced Signal Processing techniques for the preprocessing of the data. Then the Preprocessed data is used by the Neural Network algorithms to learn the pattern or structure of the sound.This Project can broadly divide into 4 main steps. Those
 steps are –
 1. Collecting the Voice Data of Digits
@@ -19,3 +19,17 @@ used, which is powerful for the images. After Creation of the model, recorded vo
 fed to the model, and the model predicts digit of the given Voice signal. This project uses
 python for developing the model, due to the vastness of Deep learning libraries present for
 python.
+
+## Results and Analysis
+When audio signal is played our neural network model identifies the number and displays it
+on the screen. Our model works with 98% percent accuracy. The Execution time is about
+200ms which makes the model light weight and also fast enough for the real time
+deployment.
+Thus it is analyzed that MFCC is very powerful for the word detection as it produces unique
+images for unique sounds irrespective of the pitch. Converting Speech to MFCC image has
+raised accuracy by 20% which is critical for the deployment. Use of CNN has prevented the
+model from getting over fitted and as drastically reduced number of computations unlike in
+other neural networks. Thus it is verified that CNN is reliable and effective when we use
+image training data. Vast libraries of python like keras, librosa etc used has simplified the
+design of the model. Hyper tuning parameters like batch size, learning rate and other
+parameters have been observed and noted down.
