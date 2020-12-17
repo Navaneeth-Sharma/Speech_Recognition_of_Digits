@@ -23,7 +23,7 @@ python.
 ## Implementation
 The SRD.ipynb contains the preprcessing of the data. Here Mel Frequency Cepstrum Coefficients(MFCC) is used to convert the speech data points to MFCC images. This implies the problem statement is converted from Speech Recognition to Image Recognition. Then it is Divided into training and validation data for analysing the metrics. Then the Data is fed to the Model which looks like 
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+#### Layer (type)                 Output Shape              Param #   
 =================================================================
 conv2d_3 (Conv2D)            (None, 18, 6, 32)         320       
 _________________________________________________________________
@@ -37,7 +37,7 @@ dense_3 (Dense)              (None, 128)               28800
 _________________________________________________________________
 dropout_2 (Dropout)          (None, 128)               0         
 _________________________________________________________________
-dense_4 (Dense)              (None, 10)                1290      
+#### dense_4 (Dense)              (None, 10)                1290      
 =================================================================
 Total params: 39,658
 Trainable params: 39,658
