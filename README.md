@@ -23,7 +23,7 @@ python.
 ## Implementation
 The SRD.ipynb contains the preprcessing of the data. Here Mel Frequency Cepstrum Coefficients(MFCC) is used to convert the speech data points to MFCC images. This implies the problem statement is converted from Speech Recognition to Image Recognition. Then it is Divided into training and validation data for analysing the metrics. Then the Data is fed to the Model which looks like 
 
-![alt text](https://drive.google.com/drive/u/0/folders/1X8lcq9Iznhl-3kEAjpAzvzg-4POok4ua)
+![alt text](https://github.com/Navaneeth-Sharma/Speech_Recognition_of_Digits/blob/main/model_summary.jpg)
 
 The Adam Optimizer is used for Optimization on the Weights, Categorical Loss (since Categorical Data) and batch size is about 64.
 
