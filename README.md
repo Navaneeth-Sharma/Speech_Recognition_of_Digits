@@ -7,7 +7,7 @@ steps are –
 3. Training by preprocessed data and creating a model
 4. Testing the Model
 <br>
-\t The data for this project is collected from kaggle.com, which is a popular websites for
+&nbsp;&nbsp;&nbsp;&nbsp;The data for this project is collected from kaggle.com, which is a popular websites for
 Projects related to the Machine Learning and Data Science. The dataset has about 3000
 samples i.e about 50 dataset for each digit. The 2nd step i.e preprocessing data is done
 through ASP techniques such as Mel Frequency Cepstral Coefficients (MFCCs). These
