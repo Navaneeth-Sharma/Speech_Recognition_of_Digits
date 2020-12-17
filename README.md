@@ -26,6 +26,7 @@ The SRD.ipynb contains the preprcessing of the data. Here Mel Frequency Cepstrum
 ![alt text](https://github.com/Navaneeth-Sharma/Speech_Recognition_of_Digits/blob/main/model_summary.jpg)
 
 The Adam Optimizer is used for Optimization on the Weights, Categorical Loss (since Categorical Data) and batch size is about 64.
+The Output.ipynb contains the code for the testing the model.
 
 ## Results and Analysis
 When audio signal is played our neural network model identifies the number and displays it
@@ -47,4 +48,6 @@ and validated with 300 samples with an accuracy of 92% and 0.90 F1 score
 
 
 ![alt text](https://github.com/Navaneeth-Sharma/Speech_Recognition_of_Digits/blob/main/f1score.png) ![alt text](https://github.com/Navaneeth-Sharma/Speech_Recognition_of_Digits/blob/main/acc.png)
+
+The Execution time is about 200ms which makes the model light weight and also fast enough for the real time deployment.
 
