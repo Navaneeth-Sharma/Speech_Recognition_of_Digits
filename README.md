@@ -17,7 +17,5 @@ Model. The Convolutional Neural Networks (CNN) algorithm is used to train the mo
 CNN uses a basic Image processing technique of convolution of 2 images. Here Conv 2D is
 used, which is powerful for the images. After Creation of the model, recorded voice input is
 fed to the model, and the model predicts digit of the given Voice signal. This project uses
-Speech Recognition of Digits
-Department of Electronics & Communication Engineering Page 2
 python for developing the model, due to the vastness of Deep learning libraries present for
 python.
